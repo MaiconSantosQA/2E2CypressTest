@@ -1,0 +1,8 @@
+node_modules
+cypress/videos
+cypress/screenshots
+results
+results/*.xml
+accessToken.txt
+accessTokenPreponente.txt
+cypress/fixture/*
